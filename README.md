@@ -42,6 +42,8 @@ Rather than focusing only on individual projects, this repository represents my 
 | Day 26 | Courier & Parcel Tracking System         |
 | Day 27 | Movie Ticket Booking System              |
 | Day 28 | Warehouse Inventory System               |
+| Day 29 | Restaurant Order Management System       |
+| Day 30 | File Compression Utility                 |
 
 ---
 
@@ -119,7 +121,7 @@ With every project, I aim to improve my ability to:
 
 ## 📊 Current Progress
 
-**28 Days | 28 Projects | Continuous Learning**
+**30 Days | 30 Projects | Continuous Learning**
 
 This repository will continue to evolve as I progress through the internship, with each new project adding another step to my C++ development journey.
 
